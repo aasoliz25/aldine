@@ -21,7 +21,7 @@
 .description {
   font-family: "overpass", sans-serif;
   text-align: justify;
-  font-size: 13px;
+  font-size: 50px;
 }
 
 .myStatus {

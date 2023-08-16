@@ -19,7 +19,7 @@
 }
 
 .description {
-  font-family: "arial", sans-serif;
+  font-family: "overpass", sans-serif;
   text-align: justify;
   font-size: 13px;
 }

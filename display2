@@ -1,7 +1,7 @@
 .typeimg {
   width: 45px;
-  height: 45px;
-  float: left;
+  height: 100px;
+  float: center;
 }
 
 .title a {
